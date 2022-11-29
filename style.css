@@ -1,0 +1,63 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#logo {
+  width: 40%;
+
+  display: block;
+  margin: 0 50px;
+  border-radius: 100px;
+  float: right;
+}
+
+h1{
+  font-family: fantasy;
+  color: black;
+  font-size: 10mm;
+  font-weight: 900;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+body {
+  background-image: url("photo-1513002749550-c59d786b8e6c.jpeg");
+  background-size: 100vw;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 500;
+  font-weight: 500;
+}
+
+li {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 5mm;
+}
+
+h3 {
+  font-family: fantasy;
+  font-size: 6mm;
+  font-weight: 800;
+}
+
+div {
+  margin-bottom: 80px;
+}
+
+.note {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 30px;
+  padding: 50px;
+}
+
+.note-text {
+  border: 50px;
+  padding: 40px;
+}
